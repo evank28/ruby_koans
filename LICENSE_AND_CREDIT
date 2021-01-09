@@ -1,0 +1,18 @@
+CREDIT:
+All files beginning with prefix "about_" as well as the files
+ - "example_file.txt"
+ - "GREED_RULES.txt"
+ - "koans.watchr"
+ - "neo.rb"
+ - "path_to_enlightenment.rb"
+ - "Rakefile" and
+ - "triangle.rb"
+come from the Ruby Koans tutorial at this link: http://rubykoans.com/
+They are published under the CC BY-NC-SA 3.0 license, which can be read here:
+https://creativecommons.org/licenses/by-nc-sa/3.0/. These files were modified
+by me (Evan Kanter) while completing the tutorial.
+
+LICENSE:
+All other files and any modifications to the above files are written by me
+as part of my learning process, and are also licensed under the CC BY-NC-SA 3.0 license.
+
